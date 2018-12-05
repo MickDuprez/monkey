@@ -5,8 +5,11 @@ Some text here...
 *** Subheading 1.1.1
 More text
 
-** Subheading 1.2
+*** Subheading 1.2
 Etc.etc.
 
 * Heading 2
 ** Subheading 2.1
+
+* DONE blah [2018-12-5 Wed]
+* TODO bleh 
